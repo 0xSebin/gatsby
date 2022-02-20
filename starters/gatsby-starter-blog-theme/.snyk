@@ -1,0 +1,62 @@
+# Snyk (https://snyk.io) policy file, patches or ignores known vulnerabilities.
+version: v1.22.1
+ignore: {}
+# patches apply the minimum changes required to fix a vulnerability
+patch:
+  SNYK-JS-LODASH-567746:
+    - gatsby > babel-plugin-lodash > lodash:
+        patched: '2022-02-19T07:52:23.397Z'
+    - gatsby > devcert > lodash:
+        patched: '2022-02-19T07:52:23.397Z'
+    - gatsby > eslint-plugin-flowtype > lodash:
+        patched: '2022-02-19T07:52:23.397Z'
+    - gatsby > babel-plugin-lodash > @babel/types > lodash:
+        patched: '2022-02-19T07:52:23.397Z'
+    - gatsby > babel-plugin-lodash > @babel/helper-module-imports > @babel/types > lodash:
+        patched: '2022-02-19T07:52:23.397Z'
+    - gatsby-theme-blog > gatsby-plugin-emotion > @emotion/babel-preset-css-prop > babel-plugin-emotion > @babel/helper-module-imports > @babel/types > lodash:
+        patched: '2022-02-19T07:52:23.397Z'
+    - gatsby-theme-blog > gatsby-theme-blog-core > gatsby-plugin-mdx > @babel/preset-env > @babel/preset-modules > @babel/types > lodash:
+        patched: '2022-02-19T07:52:23.397Z'
+    - gatsby-theme-blog > gatsby-plugin-emotion > @emotion/babel-preset-css-prop > @babel/plugin-transform-react-jsx > @babel/helper-builder-react-jsx > @babel/types > lodash:
+        patched: '2022-02-19T07:52:23.397Z'
+    - gatsby-theme-blog > gatsby-theme-blog-core > @mdx-js/mdx > @babel/core > @babel/helpers > @babel/types > lodash:
+        patched: '2022-02-19T07:52:23.397Z'
+    - gatsby-theme-blog > gatsby-plugin-emotion > @emotion/babel-preset-css-prop > @babel/plugin-transform-react-jsx > @babel/helper-builder-react-jsx-experimental > @babel/helper-annotate-as-pure > @babel/types > lodash:
+        patched: '2022-02-19T07:52:23.397Z'
+    - gatsby-theme-blog > theme-ui > @theme-ui/mdx > @emotion/styled > babel-plugin-emotion > @babel/helper-module-imports > @babel/types > lodash:
+        patched: '2022-02-19T07:52:23.397Z'
+    - gatsby-theme-blog > gatsby-theme-blog-core > @mdx-js/mdx > @babel/core > @babel/helper-module-transforms > @babel/helper-simple-access > @babel/types > lodash:
+        patched: '2022-02-19T07:52:23.397Z'
+    - gatsby-theme-blog > gatsby-theme-blog-core > gatsby-plugin-mdx > @babel/preset-env > @babel/plugin-transform-modules-systemjs > @babel/helper-hoist-variables > @babel/types > lodash:
+        patched: '2022-02-19T07:52:23.397Z'
+    - gatsby-theme-blog > gatsby-theme-blog-core > @mdx-js/mdx > remark-mdx > @babel/core > @babel/helpers > @babel/types > lodash:
+        patched: '2022-02-19T07:52:23.397Z'
+    - gatsby-theme-blog > gatsby-theme-blog-core > gatsby-plugin-mdx > @babel/preset-env > @babel/plugin-transform-exponentiation-operator > @babel/helper-builder-binary-assignment-operator-visitor > @babel/helper-explode-assignable-expression > @babel/types > lodash:
+        patched: '2022-02-19T07:52:23.397Z'
+    - gatsby-theme-blog > theme-ui > @theme-ui/theme-provider > @theme-ui/mdx > @emotion/styled > babel-plugin-emotion > @babel/helper-module-imports > @babel/types > lodash:
+        patched: '2022-02-19T07:52:23.397Z'
+    - gatsby-theme-blog > gatsby-theme-blog-core > @mdx-js/mdx > remark-mdx > @babel/core > @babel/helper-module-transforms > @babel/helper-simple-access > @babel/types > lodash:
+        patched: '2022-02-19T07:52:23.397Z'
+    - gatsby-theme-blog > gatsby-theme-blog-core > @mdx-js/mdx > @babel/core > @babel/helpers > @babel/traverse > @babel/helper-function-name > @babel/types > lodash:
+        patched: '2022-02-19T07:52:23.397Z'
+    - gatsby-theme-blog > theme-ui > @theme-ui/theme-provider > @theme-ui/mdx > @emotion/core > @emotion/css > babel-plugin-emotion > @babel/helper-module-imports > @babel/types > lodash:
+        patched: '2022-02-19T07:52:23.397Z'
+    - gatsby-theme-blog > gatsby-theme-blog-core > gatsby-plugin-mdx > @babel/preset-env > @babel/plugin-transform-async-to-generator > @babel/helper-remap-async-to-generator > @babel/helper-wrap-function > @babel/helper-function-name > @babel/types > lodash:
+        patched: '2022-02-19T07:52:23.397Z'
+    - gatsby-theme-blog > gatsby-theme-blog-core > @mdx-js/mdx > remark-mdx > @babel/core > @babel/helpers > @babel/traverse > @babel/helper-function-name > @babel/types > lodash:
+        patched: '2022-02-19T07:52:23.397Z'
+    - gatsby-theme-blog > gatsby-theme-blog-core > @mdx-js/mdx > @babel/core > @babel/helper-module-transforms > @babel/helper-replace-supers > @babel/traverse > @babel/helper-function-name > @babel/types > lodash:
+        patched: '2022-02-19T07:52:23.397Z'
+    - gatsby-theme-blog > theme-ui > @theme-ui/theme-provider > @theme-ui/color-modes > @theme-ui/core > @emotion/core > @emotion/css > babel-plugin-emotion > @babel/helper-module-imports > @babel/types > lodash:
+        patched: '2022-02-19T07:52:23.397Z'
+    - gatsby-theme-blog > gatsby-theme-blog-core > @mdx-js/mdx > @babel/core > @babel/helper-module-transforms > @babel/helper-replace-supers > @babel/traverse > @babel/helper-function-name > @babel/template > @babel/types > lodash:
+        patched: '2022-02-19T07:52:23.397Z'
+    - gatsby-theme-blog > gatsby-theme-blog-core > gatsby-plugin-mdx > @babel/preset-env > @babel/plugin-transform-async-to-generator > @babel/helper-remap-async-to-generator > @babel/helper-wrap-function > @babel/traverse > @babel/helper-function-name > @babel/types > lodash:
+        patched: '2022-02-19T07:52:23.397Z'
+    - gatsby-theme-blog > gatsby-theme-blog-core > @mdx-js/mdx > remark-mdx > @babel/core > @babel/helper-module-transforms > @babel/helper-replace-supers > @babel/traverse > @babel/helper-function-name > @babel/types > lodash:
+        patched: '2022-02-19T07:52:23.397Z'
+    - gatsby-theme-blog > gatsby-theme-blog-core > @mdx-js/mdx > remark-mdx > @babel/core > @babel/helper-module-transforms > @babel/helper-replace-supers > @babel/traverse > @babel/helper-function-name > @babel/template > @babel/types > lodash:
+        patched: '2022-02-19T07:52:23.397Z'
+    - gatsby-theme-blog > gatsby-theme-blog-core > gatsby-plugin-mdx > @babel/preset-env > @babel/plugin-transform-async-to-generator > @babel/helper-remap-async-to-generator > @babel/helper-wrap-function > @babel/traverse > @babel/helper-function-name > @babel/template > @babel/types > lodash:
+        patched: '2022-02-19T07:52:23.397Z'
