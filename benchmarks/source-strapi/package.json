@@ -8,7 +8,7 @@
     "gatsby-plugin-benchmark-reporting": "^0.2.14",
     "gatsby-plugin-sharp": "^2.6.24",
     "gatsby-source-filesystem": "^2.3.23",
-    "gatsby-source-strapi": "^0.0.12",
+    "gatsby-source-strapi": "^2.0.0",
     "gatsby-transformer-sharp": "^2.5.12",
     "node-fetch": "^2.6.0",
     "prop-types": "^15.7.2",
