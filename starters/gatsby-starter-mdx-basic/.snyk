@@ -1,0 +1,40 @@
+# Snyk (https://snyk.io) policy file, patches or ignores known vulnerabilities.
+version: v1.22.1
+ignore: {}
+# patches apply the minimum changes required to fix a vulnerability
+patch:
+  SNYK-JS-LODASH-567746:
+    - gatsby-plugin-offline > lodash:
+        patched: '2022-03-26T08:03:57.204Z'
+    - gatsby > babel-plugin-lodash > lodash:
+        patched: '2022-03-26T08:03:57.204Z'
+    - gatsby > css-loader > lodash:
+        patched: '2022-03-26T08:03:57.204Z'
+    - gatsby > devcert > lodash:
+        patched: '2022-03-26T08:03:57.204Z'
+    - gatsby > eslint > lodash:
+        patched: '2022-03-26T08:03:57.204Z'
+    - gatsby > eslint-plugin-flowtype > lodash:
+        patched: '2022-03-26T08:03:57.204Z'
+    - gatsby > webpack-merge > lodash:
+        patched: '2022-03-26T08:03:57.204Z'
+    - gatsby-plugin-offline > cheerio > lodash:
+        patched: '2022-03-26T08:03:57.204Z'
+    - gatsby > @typescript-eslint/parser > @typescript-eslint/typescript-estree > lodash:
+        patched: '2022-03-26T08:03:57.204Z'
+    - gatsby > eslint > table > lodash:
+        patched: '2022-03-26T08:03:57.204Z'
+    - gatsby > optimize-css-assets-webpack-plugin > last-call-webpack-plugin > lodash:
+        patched: '2022-03-26T08:03:57.204Z'
+    - gatsby > react-dev-utils > inquirer > lodash:
+        patched: '2022-03-26T08:03:57.204Z'
+    - gatsby > webpack-dev-server > http-proxy-middleware > lodash:
+        patched: '2022-03-26T08:03:57.204Z'
+    - gatsby > @typescript-eslint/parser > @typescript-eslint/experimental-utils > @typescript-eslint/typescript-estree > lodash:
+        patched: '2022-03-26T08:03:57.204Z'
+    - gatsby > gatsby-cli > gatsby-recipes > contentful-management > lodash:
+        patched: '2022-03-26T08:03:57.204Z'
+    - gatsby > webpack-dev-server > portfinder > async > lodash:
+        patched: '2022-03-26T08:03:57.204Z'
+    - gatsby > gatsby-cli > gatsby-recipes > contentful-management > contentful-sdk-core > lodash:
+        patched: '2022-03-26T08:03:57.204Z'
