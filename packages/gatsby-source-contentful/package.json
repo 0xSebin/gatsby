@@ -19,7 +19,7 @@
     "gatsby-core-utils": "^1.3.23",
     "gatsby-plugin-utils": "^0.2.40",
     "gatsby-source-filesystem": "^2.4.0",
-    "is-online": "^8.5.1",
+    "is-online": "^10.0.0",
     "json-stringify-safe": "^5.0.1",
     "lodash": "^4.17.20",
     "node-fetch": "^2.6.1",
