@@ -16,7 +16,7 @@
     "dotenv": "^8.2.0",
     "js-yaml": "^3.13.1",
     "log4js": "^5.2.2",
-    "node-fetch": "^2.6.0",
+    "node-fetch": "^3.2.10",
     "shelljs": "^0.8.3"
   }
 }
