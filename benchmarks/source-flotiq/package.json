@@ -19,7 +19,7 @@
     "gatsby": "^2.24.10",
     "gatsby-image": "^2.2.40",
     "gatsby-plugin-benchmark-reporting": "*",
-    "gatsby-plugin-sharp": "^2.6.21",
+    "gatsby-plugin-sharp": "^4.23.0",
     "gatsby-source-filesystem": "^2.3.22",
     "gatsby-source-flotiq": "*",
     "gatsby-transformer-sharp": "^2.3.14",
