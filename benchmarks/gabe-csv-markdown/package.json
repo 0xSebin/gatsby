@@ -29,7 +29,7 @@
   ],
   "dependencies": {
     "faker": "^4.1.0",
-    "gatsby": "^2",
+    "gatsby": "^3.0.0",
     "gatsby-source-filesystem": "^2",
     "gatsby-transformer-csv": "^2",
     "gatsby-transformer-remark": "^2",
