@@ -31,8 +31,8 @@
     "@mdx-js/mdx": "^1",
     "@mdx-js/react": "^1",
     "faker": "^4.1.0",
-    "gatsby": "^2",
-    "gatsby-plugin-mdx": "^1",
+    "gatsby": "^3.0.0",
+    "gatsby-plugin-mdx": "^4.0.0",
     "gatsby-source-filesystem": "^2",
     "react": "^16.12.0",
     "react-dom": "^16.12.0"
