@@ -16,7 +16,7 @@
     "@kentico/gatsby-source-kontent": "^6.0.1",
     "@rshackleton/gatsby-transformer-kontent-image": "^2.0.0",
     "dotenv": "^8.2.0",
-    "gatsby": "^2.19.7",
+    "gatsby": "^3.0.0",
     "gatsby-image": "^2.2.40",
     "gatsby-plugin-benchmark-reporting": "*",
     "gatsby-plugin-sharp": "^2.4.5",
