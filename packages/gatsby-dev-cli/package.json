@@ -21,7 +21,7 @@
     "is-absolute": "^1.0.0",
     "lodash": "^4.17.20",
     "signal-exit": "^3.0.3",
-    "verdaccio": "^4.8.1",
+    "verdaccio": "^5.19.0",
     "yargs": "^15.4.1"
   },
   "devDependencies": {
