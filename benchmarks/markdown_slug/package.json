@@ -7,7 +7,7 @@
   "dependencies": {
     "del-cli": "^3.0.0",
     "faker": "^4.1.0",
-    "gatsby": "^2.19.5",
+    "gatsby": "^3.0.0",
     "gatsby-image": "^2.2.39",
     "gatsby-plugin-benchmark-reporting": "*",
     "gatsby-plugin-feed": "^2.3.26",
