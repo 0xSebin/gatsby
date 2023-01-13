@@ -28,7 +28,7 @@
     "gatsby-remark-prismjs": "^3.5.13",
     "gatsby-source-filesystem": "^2.3.30",
     "gatsby-transformer-javascript-frontmatter": "^2.3.12",
-    "gatsby-transformer-remark": "^4.0.0",
+    "gatsby-transformer-remark": "^5.25.1",
     "moment": "^2.28.0",
     "node-sass": "^7.0.1",
     "normalize.css": "^7.0.0",
