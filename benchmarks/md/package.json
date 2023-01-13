@@ -28,7 +28,7 @@
     "gatsby-plugin-sharp": "^2.4.12",
     "gatsby-remark-images": "^5.0.0",
     "gatsby-source-filesystem": "^2.2.3",
-    "gatsby-transformer-remark": "^4.0.0",
+    "gatsby-transformer-remark": "^5.25.1",
     "gatsby-transformer-sharp": "^2.4.5",
     "glob": "^7.1.6",
     "node-fetch": "^2.6.0",
