@@ -69,7 +69,7 @@
     "gatsby-transformer-remark": "^2.8.28",
     "gatsby-transformer-screenshot": "^2.3.16",
     "gatsby-transformer-sharp": "^2.5.13",
-    "gatsby-transformer-yaml": "^2.4.10",
+    "gatsby-transformer-yaml": "^5.5.0",
     "get-package-json-from-github": "^1.2.1",
     "graphql-request": "1.8.2",
     "hex-rgb": "^4.1.0",
