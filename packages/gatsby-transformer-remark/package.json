@@ -26,7 +26,7 @@
     "underscore.string": "^3.3.5",
     "unified": "^6.2.0",
     "unist-util-remove-position": "^1.1.4",
-    "unist-util-select": "^1.5.0",
+    "unist-util-select": "^2.0.0",
     "unist-util-visit": "^1.4.1"
   },
   "devDependencies": {
