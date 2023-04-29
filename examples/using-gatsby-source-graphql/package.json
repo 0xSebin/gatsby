@@ -20,7 +20,7 @@
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
     "remark": "^11.0.2",
-    "remark-html": "^10.0.0"
+    "remark-html": "^13.0.2"
   },
   "devDependencies": {
     "babel-eslint": "^10.1.0",
