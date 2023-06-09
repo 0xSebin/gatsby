@@ -16,10 +16,10 @@
   "dependencies": {
     "dotenv": "^8.2.0",
     "faker": "^5.0.0",
-    "gatsby": "^2.24.10",
+    "gatsby": "^5.0.0",
     "gatsby-image": "^2.2.40",
     "gatsby-plugin-benchmark-reporting": "*",
-    "gatsby-plugin-sharp": "^2.6.21",
+    "gatsby-plugin-sharp": "^5.10.0",
     "gatsby-source-filesystem": "^2.3.22",
     "gatsby-source-flotiq": "*",
     "gatsby-transformer-sharp": "^2.3.14",
