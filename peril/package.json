@@ -1,6 +1,6 @@
 {
   "dependencies": {
-    "jest": "^25.0.0"
+    "jest": "^27.0.0"
   },
   "scripts": {
     "test": "jest"
