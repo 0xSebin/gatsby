@@ -87,7 +87,7 @@
     "fastest-levenshtein": "^1.0.16",
     "fastq": "^1.15.0",
     "file-loader": "^6.2.0",
-    "find-cache-dir": "^3.3.2",
+    "find-cache-dir": "^4.0.0",
     "fs-exists-cached": "1.0.0",
     "fs-extra": "^11.1.0",
     "gatsby-cli": "^5.8.0-next.0",
