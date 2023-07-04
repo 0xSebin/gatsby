@@ -10,7 +10,7 @@
     "Noah Lange <noahrlange@gmail.com>"
   ],
   "dependencies": {
-    "@babel/core": "^7.20.12",
+    "@babel/core": "^7.22.6",
     "@babel/plugin-proposal-nullish-coalescing-operator": "^7.18.6",
     "@babel/plugin-proposal-numeric-separator": "^7.18.6",
     "@babel/plugin-proposal-optional-chaining": "^7.20.7",
@@ -20,7 +20,7 @@
   },
   "devDependencies": {
     "@babel/cli": "^7.20.7",
-    "@babel/core": "^7.20.12",
+    "@babel/core": "^7.22.6",
     "babel-preset-gatsby-package": "^3.8.0-next.0",
     "cross-env": "^7.0.3"
   },
