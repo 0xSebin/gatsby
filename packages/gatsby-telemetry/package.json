@@ -12,7 +12,7 @@
     "@turist/fetch": "^7.2.0",
     "@turist/time": "^0.0.2",
     "boxen": "^5.1.2",
-    "configstore": "^5.0.1",
+    "configstore": "^6.0.0",
     "fs-extra": "^11.1.0",
     "gatsby-core-utils": "^4.8.0-next.0",
     "git-up": "^7.0.0",
